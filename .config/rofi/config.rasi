@@ -1,0 +1,16 @@
+//@theme "/usr/share/rofi/themes/Arc-Dark-Havelock.rasi"
+
+configuration {
+//   display-drun: "Applications:";
+//   display-window: "Windows:";
+//   drun-display-format: "{name}";
+//   font: "JetBrainsMono Nerd Font Medium 10";
+    modi: "window,run,drun";
+
+    show-icons: true;
+    icon-theme: "Papirus";
+
+    combi-modi: "drun,run";
+}
+
+@theme "/usr/share/rofi/themes/gruvbox-dark-soft.rasi"
