@@ -311,21 +311,21 @@ def init_widgets_list():
             fontsize=51
         ),
         # do not activate in Virtualbox - will break qtile
-        widget.ThermalSensor(
-            foreground=gruvbox['fg0'],
-            background=gruvbox['green'],
-            threshold=90,
-            fmt='Temp: {}',
-            padding=5
-        ),
-        widget.TextBox(
-            text='',
-            font="Ubuntu Mono",
-            background=gruvbox['green'],
-            foreground=gruvbox['bg'],
-            padding=0,
-            fontsize=51
-        ),
+        # widget.ThermalSensor(
+        #     foreground=gruvbox['fg0'],
+        #     background=gruvbox['green'],
+        #     threshold=90,
+        #     fmt='Temp: {}',
+        #     padding=5
+        # ),
+        # widget.TextBox(
+        #     text='',
+        #     font="Ubuntu Mono",
+        #     background=gruvbox['green'],
+        #     foreground=gruvbox['bg'],
+        #     padding=0,
+        #     fontsize=51
+        # ),
 
         # Memory
         widget.TextBox(
