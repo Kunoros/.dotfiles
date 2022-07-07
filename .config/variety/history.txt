@@ -1,4 +1,21 @@
 0
+/home/patrick/.config/variety/Downloaded/wallhaven_anime/wallhaven-o3dvv9.jpg
+/home/patrick/.config/variety/Downloaded/wallhaven_anime/wallhaven-1kx8k9.jpg
+/home/patrick/.config/variety/Downloaded/wallhaven_anime/wallhaven-dpgkxo.jpg
+/home/patrick/.config/variety/Downloaded/wallhaven_anime/wallhaven-m932jk.jpg
+/home/patrick/.config/variety/Downloaded/wallhaven_anime/wallhaven-r2jje7.jpg
+/home/patrick/.config/variety/Downloaded/wallhaven_anime/wallhaven-q2pgyr.jpg
+/home/patrick/.config/variety/Downloaded/wallhaven_anime/wallhaven-zme9dg.png
+/home/patrick/.config/variety/Downloaded/wallhaven_anime/wallhaven-72o6ze.jpg
+/home/patrick/.config/variety/Downloaded/wallhaven_anime/wallhaven-j8q8gw.png
+/home/patrick/.config/variety/Downloaded/wallhaven_anime/wallhaven-xlgzx3.jpg
+/home/patrick/.config/variety/Downloaded/wallhaven_anime/wallhaven-3zezd9.jpg
+/home/patrick/.config/variety/Downloaded/wallhaven_anime/wallhaven-mdvo58.jpg
+/home/patrick/.config/variety/Downloaded/wallhaven_anime/wallhaven-mdjwjy.jpg
+/home/patrick/.config/variety/Downloaded/wallhaven_anime/wallhaven-q6m557.png
+/home/patrick/.config/variety/Downloaded/wallhaven_anime/wallhaven-oxv6gl.png
+/home/patrick/.config/variety/Downloaded/wallhaven_anime/wallhaven-839kvo.jpg
+/home/patrick/.config/variety/Downloaded/wallhaven_anime/wallhaven-2e8mlx.png
 /home/patrick/.config/variety/Downloaded/wallhaven_anime/wallhaven-pkwl8j.jpg
 /home/patrick/.config/variety/Downloaded/wallhaven_anime/wallhaven-wqq73x.jpg
 /home/patrick/.config/variety/Downloaded/wallhaven_anime/wallhaven-3z7y83.jpg
@@ -82,5 +99,3 @@
 /home/patrick/.config/variety/Downloaded/wallhaven_anime/wallhaven-dg9zd3.jpg
 /home/patrick/.config/variety/Downloaded/wallhaven_anime/wallhaven-rdqw1m.jpg
 /home/patrick/.config/variety/Downloaded/wallhaven_anime/wallhaven-73xpde.png
-/home/patrick/.config/variety/Downloaded/wallhaven_anime/wallhaven-e7x518.jpg
-/home/patrick/.config/variety/Downloaded/wallhaven_anime/wallhaven-k75977.jpg
